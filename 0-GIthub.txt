@@ -1,0 +1,7 @@
+How to use github  
+
+// git status
+// git add --all
+// git commit -m "first Commit"
+
+// git push
