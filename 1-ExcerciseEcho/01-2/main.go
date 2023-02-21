@@ -27,7 +27,5 @@ func main() {
 func add(a int, b int) {
 	fmt.Println(a + b)
 }
+
 // function that converts human years into dog years
-func dogYears(humanYears int) int {
-	return humanYears * 7
-}
